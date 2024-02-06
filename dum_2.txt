@@ -1,11 +1,5 @@
 first msg from devops
 
-<<<<<<< HEAD
 asdf
 asdf
 asdf
-=======
-
-
-hekloo check all
->>>>>>> 161eb52e464e7fba0694a6122285c48f641ba8a8
