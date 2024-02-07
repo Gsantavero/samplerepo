@@ -1,6 +1,2 @@
 it is to check giwqt fetch
-<<<<<<< Updated upstream
 from cloud
-=======
-from local stage1
->>>>>>> Stashed changes
